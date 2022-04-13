@@ -1,0 +1,8 @@
+1. container
+2. header
+3. slides
+4. search course
+5. course category 
+6. calendar
+7. subject
+8 footer
